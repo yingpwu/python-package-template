@@ -13,6 +13,15 @@
 [![License](https://img.shields.io/github/license/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }})](https://github.com/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }}/blob/master/LICENSE)
 ![Coverage Report](assets/images/coverage.svg)
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }}/Release)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b2dcde7f09548f5a49df43fbb0c3beb)](https://www.codacy.com/gh/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }}/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content={{ cookiecutter.github_name }}/{{ cookiecutter.project_name }}&amp;utm_campaign=Badge_Grade)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/netsm)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/netsm)
+![PyPI](https://img.shields.io/pypi/v/netsm)
+[![GitHub stars](https://img.shields.io/github/stars/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }})](https://github.com/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }}/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }})](https://github.com/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }}/network)
+[![GitHub issues](https://img.shields.io/github/issues/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }})](https://github.com/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }}/issues)
+
 {{ cookiecutter.project_description }}
 
 </div>
@@ -399,6 +408,6 @@ This project is licensed under the terms of the `{{ cookiecutter.license }}` lic
 }
 ```
 
-## Credits [![🚀 Your next Python package needs a bleeding-edge project structure.](https://img.shields.io/badge/python--package--template-%F0%9F%9A%80-brightgreen)](https://github.com/yingpwu/python-package-template)
+## Credits [![🚀 Your next Python package needs a bleeding-edge project structure.](https://img.shields.io/badge/python--package--template-%F0%9F%9A%80-brightgreen)](https://github.com/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }})
 
-This project was generated with [`python-package-template`](https://github.com/yingpwu/python-package-template)
+This project was generated with [`python-package-template`](https://github.com/{{ cookiecutter.github_name }}/{{ cookiecutter.project_name }})

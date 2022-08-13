@@ -14,7 +14,6 @@
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/yingpwu/python-package-template/Release)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b2dcde7f09548f5a49df43fbb0c3beb)](https://www.codacy.com/gh/yingpwu/python-package-template/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yingpwu/python-package-template&amp;utm_campaign=Badge_Grade)
-![Codecov](https://img.shields.io/codecov/c/github/yingpwu/python-package-template)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/netsm)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/netsm)
 ![PyPI](https://img.shields.io/pypi/v/netsm)
